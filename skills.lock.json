@@ -1,0 +1,23 @@
+[
+  {
+    "name": "security-best-practices",
+    "source": "https://github.com/openai/skills/tree/main/skills/.curated/security-best-practices",
+    "installed_path": "C:\\Users\\86313\\.codex\\skills\\security-best-practices\\SKILL.md",
+    "sha256": "7B3DAE1FFC5434D890F3C65C8F552AF52D0307FAB3B35DEC13013C9CA3844C4F",
+    "installed_date": "2026-09-19"
+  },
+  {
+    "name": "security-threat-model",
+    "source": "https://github.com/openai/skills/tree/main/skills/.curated/security-threat-model",
+    "installed_path": "C:\\Users\\86313\\.codex\\skills\\security-threat-model\\SKILL.md",
+    "sha256": "1283C0DD62A8104D9EDDA4583569B5D8510B4DDAA45120687C999250FD96BAD2",
+    "installed_date": "2026-09-19"
+  },
+  {
+    "name": "playwright",
+    "source": "https://github.com/openai/skills/tree/main/skills/.curated/playwright",
+    "installed_path": "C:\\Users\\86313\\.codex\\skills\\playwright\\SKILL.md",
+    "sha256": "0FFAABCC8E0990627C4725F18BF1C7955534A796C1C199E872909DE2013CE6A8",
+    "installed_date": "2026-09-19"
+  }
+]
